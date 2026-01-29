@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/706cc311-0e40-4d32-a24e-82f6c6c16528
 
 
 
-# Fsociety Rat - /helpme 🎩 
+# FuxSocy Rat - /helpme 🎩 
 
 *Command Line:*
 
